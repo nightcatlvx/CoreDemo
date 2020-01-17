@@ -16,6 +16,12 @@ namespace StanProject.Controllers
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+
+            //test 
+            //test 
+            //test 
+            //test 
+            //test 
         }
 
         public IActionResult Index()
